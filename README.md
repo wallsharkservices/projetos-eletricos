@@ -1,7 +1,6 @@
 # Projetos Elétricos – Wall Shark Services
 
-<img width="591" height="443" alt="PNG" src="https://github.com/user-attachments/assets/674936e6-e2ae-4658-870d-a7d8f60318f2" />
-
+<img width="586" height="495" alt="wall_shark_Laranja" src="https://github.com/user-attachments/assets/bbf957f2-1290-467d-9cb8-2b09676ba18a" />
 
 
 
