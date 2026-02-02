@@ -6,7 +6,7 @@
 
 
 
-Este repositório reúne projetos elétricos executados pela Wall Shark Services.
+Este repositório reúne projetos elétricos executados pela Wall Shark Services. 
 
 ## 📌 Objetivo
 Disponibilizar documentação técnica para consulta e manutenção futura.
